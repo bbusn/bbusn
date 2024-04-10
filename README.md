@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [Gropec](https://gropec.fr/)
 - 🌱 I’m currently learning **Nextjs**
-- 👨‍💻 All of my projects are available at [https://benoitbusnardo.fr](https://benoitbusnardo.fr)
 - 📄 Know about my experiences [https://benoitbusnardo.fr/cv](https://benoitbusnardo.fr/cv)
 - 📫 How to reach me **benoit.busnardo@gmail.com**
 

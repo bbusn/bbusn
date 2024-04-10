@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning **Nextjs**
 - 👨‍💻 All of my projects are available at [https://benoitbusnardo.fr](https://benoitbusnardo.fr)
 - 📫 How to reach me **benoit.busnardo@gmail.com**
-- **https://linkedin.com/in/benoit-busnardo**
 - 📄 Know about my experiences [https://benoitbusnardo.fr/cv](https://benoitbusnardo.fr/cv)
 
 ## Languages and Tools:

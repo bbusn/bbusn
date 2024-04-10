@@ -8,7 +8,7 @@
 - 📄 Know about my experiences [https://benoitbusnardo.fr/cv](https://benoitbusnardo.fr/cv)
 
 ## Connect with me:
-[![linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/benoit-busnardo)
+[![linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg) width="40" height="40"](https://linkedin.com/in/benoit-busnardo)
 
 ## Languages and Tools:
 <p align="left">

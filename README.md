@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on [Gropec](https://gropec.fr/)
 - 🌱 I’m currently learning **Nextjs**
 - 📄 Know about my experiences [https://benoitbusnardo.fr/cv](https://benoitbusnardo.fr/cv)
-- 📫 How to reach me **benoit.busnardo@gmail.com**
 
 ## Languages and Tools:
 <p align="left">

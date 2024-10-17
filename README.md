@@ -2,7 +2,7 @@
 ## A young computer enthusiast !
 
 - 🌱 I’m currently learning **Nextjs**
-- 📄 Know about my experiences [https://benoitbusnardo.fr/cv](https://benoitbusnardo.fr/cv)
+- 📄 Know about my experiences https://benoitbusnardo.fr/cv/CV_Benoit_BUSNARDO_EN_2024.pdf
 
 ## Languages and Tools:
 <p align="left">

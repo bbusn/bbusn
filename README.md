@@ -1,4 +1,4 @@
-# Hi 👋, I'm Benoît Busnardo
+# Hi, I'm Benoît Busnardo
 ## A young computer enthusiast !
 
 - 🌱 I’m currently learning **Nextjs**

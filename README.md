@@ -2,7 +2,7 @@
 ## A young computer enthusiast !
 
 - 🌱 I’m currently learning **Nextjs**
-- 📄 Learn about my experiences https://benoitbusnardo.fr/
+- 📄 Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
 
 ## Languages and Tools:
 <p align="left">

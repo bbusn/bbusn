@@ -1,11 +1,10 @@
 <div align="center">
 Benoît Busnardo 
-<img src="https://github.com/bbusn/bbusn/blob/main/line.gif" width="800">
-
 ```
 A young computer enthusiast !
 ```
 <img src="https://github.com/bbusn/bbusn/blob/main/banner.gif" width="800">
+<img src="https://github.com/bbusn/bbusn/blob/main/line.gif" width="800">
 
 
 ## About me

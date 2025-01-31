@@ -6,8 +6,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
 <br><br>
 
-</div>
-
 ## A young computer enthusiast !
 
 - I’m currently learning **SvelteJs**
@@ -32,3 +30,8 @@
 ## Contact :
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/benoit-busnardo/)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+<br><br>
+
+</div>

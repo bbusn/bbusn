@@ -2,14 +2,12 @@
 
 <div align="center">
 
-Hi, I'm
-  
 # Benoît Busnardo 
 
 ## A young computer **enthusiast** !
 ```
-I’m currently learning **SvelteJs**
-Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
+                                    I’m currently learning **SvelteJs**
+                      Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
 ```
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
 <br><br>
@@ -31,8 +29,9 @@ Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
 ## Contact :
-
+<div width="100">
 [![LinkedIn](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)](https://www.linkedin.com/in/benoit-busnardo/)
+</div>
 
 </div>
 <br><br>

@@ -22,14 +22,15 @@ Working on projects using these technologies :
 <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="35" height="35"/>
 
 ### About me
+
 I’m currently learning SvelteJs<br>
 Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
 
-<br><br>
+<br><br><br>
 
 ### Contact me
 
-[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">](https://www.linkedin.com/in/benoit-busnardo/) [<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">](https://www.linkedin.com/in/benoit-busnardo/)
+[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45">](https://www.linkedin.com/in/benoit-busnardo/)[<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45">](https://www.instagram.com/benoit.busnardo/)[<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="45">](https://discordapp.com/users/316978000895672332)
 
 </div>
 

@@ -2,18 +2,17 @@
 
 <div align="center">
 
-*Hi, I'm*
+Hi, I'm
   
 # Benoît Busnardo 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
-<br><br>
-
 ## A young computer **enthusiast** !
 ```
-- I’m currently learning **SvelteJs**
-- Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
+I’m currently learning **SvelteJs**
+Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
 ```
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+<br><br>
 
 ## Technologies :
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="40" height="40"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
 
 ### **Benoît Busnardo**
 

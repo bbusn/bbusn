@@ -1,5 +1,6 @@
 <div align="center">
-Benoît Busnardo 
+
+# Benoît Busnardo 
 
 ```
 A young computer enthusiast !

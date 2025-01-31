@@ -1,7 +1,7 @@
 <div align="center">
-  
-**Benoît**
-# Busnardo
+
+Hi, I'm
+**Benoît Busnardo**
 ```
 A young computer enthusiast !
 ```

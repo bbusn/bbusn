@@ -1,15 +1,18 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
+<img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
 
 <div align="center">
 
 # Hi, I'm Benoît Busnardo 
-
-## A young computer enthusiast !
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+<br><br>
 
 </div>
 
+## A young computer enthusiast !
+
 - I’m currently learning **SvelteJs**
 - Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
+
 ## Technologies :
 
 [![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#)

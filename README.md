@@ -1,6 +1,6 @@
 <div align="center">
   
-## Benoît
+**Benoît**
 # Busnardo
 ```
 A young computer enthusiast !

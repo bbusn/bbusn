@@ -11,7 +11,7 @@ A young computer enthusiast !
 
 
 ```
-Working on projects using these technologies :
+Working on projects using these technologies 
 ```
 
 
@@ -23,7 +23,8 @@ Working on projects using these technologies :
 ### About me
 
 I’m currently learning SvelteJs<br>
-Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
+Learn about my experiences on [my portfolio]() [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logoColor=white" height="25">](https://benoitbusnardo.fr/) 
+
 
 <br><br>
 

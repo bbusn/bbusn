@@ -1,8 +1,11 @@
-# Hi, I'm Benoît Busnardo 🎉
+(https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgzNTkyODAsIm5iZiI6MTczODM1ODk4MCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzgtNzYwMzYzMTEtYzhlYS00MjQ3LThiZjgtYTcwNzc2MjMwMzZjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTMxVDIxMjk0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmYzNkMDc0YmNjYjE0ODZkYmFhYzE5OGFhYjIxZjRkOTZhNTA2NDljNDM2YWE3ZTExOGQyNjQzMmZlOTBiZTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VWsV9_l2n9v6oDTwbcBm44E8zIKmU5glbeiTSPOcK68)
+
+# Hi, I'm Benoît Busnardo
+
 ## A young computer enthusiast !
 
-- 🌱 I’m currently learning **SvelteJs**
-- 📄 Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
+- I’m currently learning **SvelteJs**
+- Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
 
 ## Technologies :
 

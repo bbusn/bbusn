@@ -1,17 +1,18 @@
 <div align="center">
 
 Hi, I'm **Benoît Busnardo**
+
+<img src="https://github.com/bbusn/bbusn/blob/main/line.gif" width="1000">
 <img src="https://github.com/bbusn/bbusn/blob/main/banner.gif" width="1000">
 
 ```
 A young computer enthusiast !
 ```
 
-<img src="https://github.com/bbusn/bbusn/blob/main/line.gif" width="1000">
 
 
 ## About me
-I’m currently learning SvelteJs
+I’m currently learning SvelteJs<br>
 Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
 
 <br><br>

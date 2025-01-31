@@ -2,14 +2,18 @@
 
 <div align="center">
 
-# Hi, I'm Benoît Busnardo 
+*Hi, I'm*
+  
+# Benoît Busnardo 
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
 <br><br>
 
-## A young computer enthusiast !
-
+## A young computer **enthusiast** !
+```
 - I’m currently learning **SvelteJs**
 - Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
+```
 
 ## Technologies :
 
@@ -29,9 +33,7 @@
 
 ## Contact :
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/benoit-busnardo/)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-<br><br>
+[![LinkedIn](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)](https://www.linkedin.com/in/benoit-busnardo/)
 
 </div>
+<br><br>

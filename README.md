@@ -1,13 +1,12 @@
 <div align="center">
-
-# Benoît Busnardo 
+Benoît Busnardo 
+<img src="https://github.com/bbusn/bbusn/blob/main/line.gif" width="1000">
 <img src="https://github.com/bbusn/bbusn/blob/main/banner.gif" width="1000">
 
 ```
 A young computer enthusiast !
 ```
 
-<img src="https://github.com/bbusn/bbusn/blob/main/line.gif" width="1000">
 
 ## About me
 I’m currently learning SvelteJs

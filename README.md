@@ -29,7 +29,9 @@ Learn about my experiences on [my portfolio](https://benoitbusnardo.fr/)
 
 ### Repositories to check
 <br>
+
 [<img src="https://img.shields.io/badge/customroyale-%23436fd4.svg?logo=csharp&logoColor=white" height="15">](https://github.com/bbusn/customroyale) 
+
 [<img src="https://img.shields.io/badge/bradarr-%23f19e39.svg?logo=csharp&logoColor=white" height="15">](https://github.com/bbusn/bradarr)
 
 

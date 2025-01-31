@@ -1,8 +1,8 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
+
 <div align="center">
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-
-### **Benoît Busnardo**
+## **Benoît Busnardo**
 
 ```
 A young computer enthusiast !

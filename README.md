@@ -1,12 +1,16 @@
 <div align="center">
 
 # **Benoît Busnardo**
+
+<div align="center" width="600">
+  
 ```
 A young computer enthusiast !
 ```
+</div>
 
 
-<img src="https://github.com/bbusn/bbusn/blob/main/banner.gif" width="1000">
+<img src="https://github.com/bbusn/bbusn/blob/main/banner.gif" width="600">
 <br><br>
 
 

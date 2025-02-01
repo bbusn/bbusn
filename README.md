@@ -1,10 +1,10 @@
-<img src="https://github.com/bbusn/bbusn/blob/main/background.gif" width="1000">
-<br><br>
-
 <div align="center">
 
-# Benoit Busnardo
+### Benoit Busnardo
 </div>
+
+<img src="https://github.com/bbusn/bbusn/blob/main/background.gif" width="1000">
+
 
 <div align="center" width="1000">
 

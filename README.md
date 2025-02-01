@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/bbusn/bbusn/blob/main/name.png" width="300">
+<img src="https://github.com/bbusn/bbusn/blob/main/benoitbusnardo.png" width="300">
 
 <div align="center" width="1000">
   

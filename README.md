@@ -39,7 +39,7 @@ Learn about my experiences on my portfolio
 [<img src="https://img.shields.io/badge/bradarr-%23f19e39.svg?logo=csharp&logoColor=white" height="20">](https://github.com/bbusn/bradarr)
 
 
-<br><br>
+<br><br><br>
 
 ### Contact me
 <br>

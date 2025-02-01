@@ -1,6 +1,6 @@
 <div align="center">
 
-### **Benoît Busnardo**
+<img src="https://github.com/bbusn/bbusn/blob/main/name.gif" width="150">
 
 <div align="center" width="1000">
   

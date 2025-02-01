@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/bbusn/bbusn/blob/main/name.gif" width="150">
+<img src="https://github.com/bbusn/bbusn/blob/main/name.gif" width="350">
 
 <div align="center" width="1000">
   

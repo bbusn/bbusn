@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Benoît Busnardo**
+### **Benoît Busnardo**
 
 <div align="center" width="1000">
   

@@ -25,7 +25,7 @@ Working on projects using these technologies
 I’m currently learning SvelteJs<br>
 Learn about my experiences on my portfolio
 
-[<img src="https://img.shields.io/badge/benoitbusnardo.fr%23070707.svg" height="20">](https://benoitbusnardo.fr) 
+[<img src="https://img.shields.io/badge/my%20portfolio%23070707.svg?logo=internet&logoColor=white" height="20">](https://benoitbusnardo.fr) 
 
 
 

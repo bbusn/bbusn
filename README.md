@@ -2,7 +2,7 @@
 
 # **Benoît Busnardo**
 
-<div align="center" width="600">
+<div align="center" width="1000">
   
 ```
 A young computer enthusiast !

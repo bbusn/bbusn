@@ -1,13 +1,11 @@
 <div align="center">
 
-# Benoit Busnardo
-
 <img src="https://github.com/bbusn/bbusn/blob/main/background.gif" width="1000">
 <br><br>
 
 
 ```
-A young computer enthusiast !
+Hi, I'm Benoît, a young computer enthusiast !
 ```
 
 
